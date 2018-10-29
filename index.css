@@ -1,4 +1,7 @@
+/*Import roboto from google fonts*/
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
 h1 {
-	text-align: center;
-	font: 'Roboto', 2em;
+	text-align: right;
+	font: 'Roboto', verdana, sans-serif, 2em;
 }
